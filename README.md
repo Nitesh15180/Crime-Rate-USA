@@ -10,19 +10,10 @@ Time Span: January 2020 – March 2025
 Geographic Coverage: United States (nationwide, multi-state)
 Data Format: CSV 
 
-### Field                  Name                                        	Description	Type
-incident_id	  -    Unique identifier for the crime event    -         	String
-date	            Date and time of the incident                     	Datetime
-state	            US state where the incident occurred	              String
-city	            City or locality of the incident	                  String
-latitude	        Latitude of the incident location	                  Float
-longitude       	Longitude of the incident location	                Float
-crime_type	      Type of crime (e.g., Assault, Theft, Robbery, etc.)	String
-weapon_used	      Type of weapon used, if any	                        String
-arrest_made	      Whether an arrest was made (Yes/No)	                Boolean
-suspect_gender	   Gender of suspect (if known)                     	String
-victim_gender   	Gender of victim (if known)                       	String
-outcome	          Outcome (e.g., Arrested, Under Investigation, Unsolved)	String
+
+![Uploading image.png…]()
+
+
 
 ### Steps:-
 #### Data Processing & Cleaning
