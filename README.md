@@ -11,9 +11,6 @@ Geographic Coverage: United States (nationwide, multi-state)
 Data Format: CSV 
 
 
-![Uploading image.png…]()
-
-
 
 ### Steps:-
 #### Data Processing & Cleaning
