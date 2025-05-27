@@ -11,7 +11,7 @@ Geographic Coverage: United States (nationwide, multi-state)
 Data Format: CSV 
 
 ### Field                  Name                                        	Description	Type
-incident_id	      Unique identifier for the crime event             	String
+incident_id	  -    Unique identifier for the crime event    -         	String
 date	            Date and time of the incident                     	Datetime
 state	            US state where the incident occurred	              String
 city	            City or locality of the incident	                  String
